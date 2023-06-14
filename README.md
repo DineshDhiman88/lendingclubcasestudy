@@ -17,7 +17,7 @@
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Conclusions
-- #Categorical Univariate Analysis
+ #Categorical Univariate Analysis
 -  Conclusion - The study was done on the purpose of the loan to know the intention of taking a loan. Single column “purpose” was taken                   for this.Results shows that maximum people take loan for debt consolidation followed by credit card payment which is                     concern as there are higher chances of people not paying the loan amount.
 - Conclusion 2 from the analysis
 - Conclusion 3 from the analysis
