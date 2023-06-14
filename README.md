@@ -11,10 +11,8 @@
 <!-- You can include any other section that is pertinent to your problem -->
 
 ## General Information
-- Provide general information about your project here.
-- What is the background of your project?
-- What is the business probem that your project is trying to solve?
-- What is the dataset that is being used?
+- Lending Club Case Study will help bring out the useful information with an aim to bring out informatin which can be used to benefit organisation like Fraud Detection and Increasing the profit as well.
+- To bring this information to the desk I have used Python3 and various libraries, Data in the form of Excel File.
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
