@@ -34,8 +34,7 @@ Conclusion Case having Higher Revolving Credit percentage has more probability o
 
 ## Acknowledgements
 Give credit here.
-- This project was inspired by 
-- References if any...
+- This project was inspired by the increasing Defaults in the Banking Industry.
 - This project was based on EDA Tutorial.
 
 
