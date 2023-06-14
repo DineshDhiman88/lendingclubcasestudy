@@ -1,5 +1,5 @@
-# Project Name
-> Outline a brief description of your project.
+# Lending Club Case Study
+> Lending Club Case Study objective is to bring out the useful information out of the Lending Data provided by the Bank.The main aim is to bring out informatin which can be used to benefit organisation in Fraud Detection and Increasing the profit as well.
 
 
 ## Table of Contents
@@ -28,9 +28,9 @@
 
 
 ## Technologies Used
-- library - version 1.0
-- library - version 2.0
-- library - version 3.0
+- Python Pandas
+- Python Numpy
+- Python Matplotlib
 
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
