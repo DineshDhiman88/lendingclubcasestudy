@@ -17,11 +17,11 @@
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Conclusions
-Categorical Univariate Analysis
+- Categorical Univariate Analysis
 Conclusion - The study was done on the purpose of the loan to know the intention of taking a loan. Single column “purpose” was taken                   for this.Results shows that maximum people take loan for debt consolidation followed by credit card payment which is                     concern as there are higher chances of people not paying the loan amount.
-Segmented Univariate Analysis
+- Segmented Univariate Analysis
 Conclusion - Borrowers Count who defaulted the loan are more in numbers in "Not Verified" category as compared to the ones who are in                  "Source Verified Category“
-Derived Metrics Analysis
+- Derived Metrics Analysis
 Conclusion Case having Higher Revolving Credit percentage has more probability of Defaulting the Loan. As it can seen in the Charged                 off category that people who were using the revolving credit charged off.
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
